@@ -25,4 +25,9 @@
         android:name="com.charder.navigationdrawerrecycler.fragment.MemberFragment"
         android:label="fragment_member"
         tools:layout="@layout/fragment_member" />
+    <fragment
+        android:id="@+id/teacherFragment"
+        android:name="com.charder.navigationdrawerrecycler.TeacherFragment"
+        android:label="fragment_teacher"
+        tools:layout="@layout/fragment_teacher" />
 </navigation>
